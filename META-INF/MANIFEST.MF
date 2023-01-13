@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Created-By: Maven JAR Plugin 3.3.0
+Build-Jdk-Spec: 19
+Implementation-Title: List
+Implementation-Version: 1
+Main-Class: com.minimaltodo.ListApplication
+Start-Class: com.minimaltodo.ListApplication
+Spring-Boot-Version: 3.0.2-SNAPSHOT
+Spring-Boot-Classes: BOOT-INF/classes/
+Spring-Boot-Lib: BOOT-INF/lib/
+Spring-Boot-Classpath-Index: BOOT-INF/classpath.idx
+Spring-Boot-Layers-Index: BOOT-INF/layers.idx
+

@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    username: minimaltodo
+    password: minimaltodo@0258!
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: create-drop
+
